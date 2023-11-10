@@ -48,23 +48,23 @@ I'm Tanya and I'm a future Full Stack Developer.
 
 ### Skills
 
-<code><img height="24" alt="javascript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="24" alt="react" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="24" alt="redux" title="Redux" src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png"></code>
-<code><img height="24" alt="nextjs" title="NextJS" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
-<code><img height="24" alt="ajax" title="AJAX" src="https://raw.githubusercontent.com/github/explore/main/topics/ajax/ajax.png"></code>
-<code><img height="24" alt="html" title="HTML" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
-<code><img height="24" alt="css" title="CSS3" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="24" alt="sass" title="Sass" src="https://github.com/github/explore/blob/main/topics/sass/sass.png?raw=true"></code>
-<code><img height="24" alt="git" title="Git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-<code><img height="24" alt="vscode" title="VSCode" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="24" alt="sql-server" title="SQL Server" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png"></code>
-<code><img height="24" alt="mysql" title="MySQL" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
-<code><img height="24" alt="postman" title="Postman" src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png"></code>
-<code><img height="24" alt="figma" title="Figma" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code>
+<code><img height="26" alt="javascript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="26" alt="react" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="26" alt="redux" title="Redux" src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png"></code>
+<code><img height="26" alt="nextjs" title="NextJS" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
+<code><img height="26" alt="ajax" title="AJAX" src="https://raw.githubusercontent.com/github/explore/main/topics/ajax/ajax.png"></code>
+<code><img height="26" alt="html" title="HTML" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
+<code><img height="26" alt="css" title="CSS3" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+<code><img height="26" alt="sass" title="Sass" src="https://github.com/github/explore/blob/main/topics/sass/sass.png?raw=true"></code>
+<code><img height="26" alt="git" title="Git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="26" alt="vscode" title="VSCode" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="26" alt="sql-server" title="SQL Server" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png"></code>
+<code><img height="26" alt="mysql" title="MySQL" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="26" alt="postman" title="Postman" src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png"></code>
+<code><img height="26" alt="figma" title="Figma" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code>
 
-### Goal
+### Goals
 
-<code><img height="24" alt="nodejs" title="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="24" alt="typescript" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
-<code><img height="24" alt="php" title="PHP" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
+<code><img height="26" alt="nodejs" title="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="26" alt="typescript" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="26" alt="php" title="PHP" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
