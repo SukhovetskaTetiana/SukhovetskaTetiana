@@ -28,7 +28,7 @@
 
 <h1 align="center">Welcome to my GitHub!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend developer React</h3>
+<h3 align="center">Front-End developer React</h3>
 
 <!-- hero -->
 
@@ -39,12 +39,12 @@ I'm Tanya and I'm a future Full Stack Developer.
 - 🌍 I'm based in Kyiv, Ukraine <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBwN2h5N2ZjemEycDNnejE1dm9mcndzdXZrOWZwNGg0ZnN4YmZpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bNXgk2IKzC4WlqJMF4/giphy.gif" width="20">;
 - ✨ I'm a switcher with a higher technical education in Informatics and Computer Engineering;
 - 📧 You can contact me at [garmonia.t@gmail.com](mailto:garmonia.t@gmail.com)
-- 📚 I'm learning React, OOP JS, HTML5, CSS3, Quality Assurance;
+- 📚 I'm learning React, Redux Toolkit, Node, Ajax, OOP JS, Quality Assurance, Jest, react-testing-library;
 - 🤝 I'm open to collaborating on exciting projects as a frontend React developer.
 <br/>
 <!-- Маленький (small):   -->
 
-[![codewars](https://www.codewars.com/users/SukhovetskaTetiana/badges/small)](https://www.codewars.com/users/SukhovetskaTetiana)
+<!-- [![codewars](https://www.codewars.com/users/SukhovetskaTetiana/badges/small)](https://www.codewars.com/users/SukhovetskaTetiana) -->
 
 ### Skills
 
@@ -53,18 +53,25 @@ I'm Tanya and I'm a future Full Stack Developer.
 <code><img height="26" alt="redux" title="Redux" src="https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png"></code>
 <code><img height="26" alt="nextjs" title="NextJS" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
 <code><img height="26" alt="ajax" title="AJAX" src="https://raw.githubusercontent.com/github/explore/main/topics/ajax/ajax.png"></code>
+<code><img height="26" alt="nodejs" title="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="26" alt="webpack" title="Webpack" src="https://raw.githubusercontent.com/github/explore/main/topics/webpack/webpack.png"></code>
+<code><img height="26" alt="babel" title="Babel" src="https://raw.githubusercontent.com/github/explore/main/topics/babel/babel.png"></code>
+<code><img height="26" alt="eslint" title="Eslint" src="https://raw.githubusercontent.com/github/explore/main/topics/eslint/eslint.png"></code>
+<code><img height="26" alt="jasmine" title="Jasmine" src="https://raw.githubusercontent.com/github/explore/main/topics/jasmine/jasmine.png"></code>
 <code><img height="26" alt="html" title="HTML" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
 <code><img height="26" alt="css" title="CSS3" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="26" alt="sass" title="Sass" src="https://github.com/github/explore/blob/main/topics/sass/sass.png?raw=true"></code>
-<code><img height="26" alt="git" title="Git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-<code><img height="26" alt="vscode" title="VSCode" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="26" alt="figma" title="Figma" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code>
+<code><img height="26" alt="material-ui" title="Material-ui" src="https://icons8.ru/icon/gFw7X5Tbl3ss/material-ui"></code>
+
+<!-- <code><img height="26" alt="sass" title="Sass" src="https://github.com/github/explore/blob/main/topics/sass/sass.png?raw=true"></code> -->
+
 <code><img height="26" alt="sql-server" title="SQL Server" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png"></code>
 <code><img height="26" alt="mysql" title="MySQL" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
 <code><img height="26" alt="postman" title="Postman" src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png"></code>
-<code><img height="26" alt="figma" title="Figma" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code>
+<code><img height="26" alt="git" title="Git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="26" alt="vscode" title="VSCode" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png"></code>
 
 ### Goals
 
-<code><img height="26" alt="nodejs" title="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="26" alt="typescript" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
 <code><img height="26" alt="php" title="PHP" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
