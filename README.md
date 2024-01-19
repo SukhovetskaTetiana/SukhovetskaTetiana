@@ -61,7 +61,10 @@ I'm Tanya and I'm a future Full Stack Developer.
 <code><img height="26" alt="html" title="HTML" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
 <code><img height="26" alt="css" title="CSS3" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 <code><img height="26" alt="figma" title="Figma" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code>
-<code><img height="26" alt="material-ui" title="Material-ui" src="https://icons8.ru/icon/gFw7X5Tbl3ss/material-ui"></code>
+
+<!-- <code><img height="26" alt="material-ui" title="Material-ui" src="https://icons8.ru/icon/gFw7X5Tbl3ss/material-ui"></code> -->
+
+<img src="./img/material-ui.svg" title="material-ui" alt="Material-UI" height="26"/>&nbsp;
 
 <!-- <code><img height="26" alt="sass" title="Sass" src="https://github.com/github/explore/blob/main/topics/sass/sass.png?raw=true"></code> -->
 
