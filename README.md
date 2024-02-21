@@ -38,7 +38,7 @@ I'm Tanya and I'm a future Full Stack Developer.
 
 <!-- - 🌍 I'm based in Kyiv, Ukraine <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBwN2h5N2ZjemEycDNnejE1dm9mcndzdXZrOWZwNGg0ZnN4YmZpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bNXgk2IKzC4WlqJMF4/giphy.gif" width="20">;-->
 
-- 🌍 I'm based in North Rhine-Westphalia, Germany <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBwN2h5N2ZjemEycDNnejE1dm9mcndzdXZrOWZwNGg0ZnN4YmZpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bNXgk2IKzC4WlqJMF4/giphy.gif" width="20">;
+- 🌍 I'm Ukrainian <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBwN2h5N2ZjemEycDNnejE1dm9mcndzdXZrOWZwNGg0ZnN4YmZpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bNXgk2IKzC4WlqJMF4/giphy.gif" width="20"> and I'm based in North Rhine-Westphalia, Germany <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVodTdkZDM4bXh6OXo3cGdmNXk4dnkzb2Fud3V3dGh4MTBwenFxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9uT01haKhSmbmXVTwB/giphy.gif' width='20'>;
 - ✨ I'm a switcher with a higher technical education in Informatics and Computer Engineering;
 - 📧 You can contact me at [garmonia.t@gmail.com](mailto:garmonia.t@gmail.com)
 - 📚 I'm learning React, Redux Toolkit, Node, Ajax, OOP JS, Quality Assurance, Jest, react-testing-library;
